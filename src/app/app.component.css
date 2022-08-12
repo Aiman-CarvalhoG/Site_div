@@ -1,4 +1,77 @@
-h1 {
-  color: blueviolet;
-  background-color: aqua;
+/*h1 {
+  color: rgb(0, 0, 0);
+}
+
+div {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 0, 0);
+  width: 900px;
+  height: 600px;
+}*/
+
+#Tudo {
+  width: 900px;
+  height: 700px;
+  background-color: rgb(162, 160, 243);
+}
+
+#Cabecalho {
+  width: 850px;
+  height: 100px;
+  margin: auto;
+  position: relative;
+  top: 10px;
+  background-color: rgb(0, 153, 255);
+  display: flex;
+  justify-content: space-between;
+}
+
+#Logo {
+  width: 150px;
+  height: 70px;
+  background-color: rgb(42, 76, 150);
+  position: relative;
+  top: 15px;
+  left: 10px;
+  text-align: center;
+  display: inline-block;
+
+
+}
+
+#Dados {
+  width: 150px;
+  height: 70px;
+  background-color: rgb(207, 217, 236);
+  position: relative;
+  top: 15px;
+  left: -10px;
+  display: inline-block;
+}
+
+#Meio {
+  width: 850px;
+  height: 450px;
+  margin-top: 20px;
+  margin-left: 25px;
+  background-color: rgb(226, 43, 43);
+}
+
+#Rodape {
+  width: 850px;
+  height: 100px;
+  margin: auto;
+  position: relative;
+  top: 10px;
+  background-color: rgb(43, 255, 0);
+  display: flex;
+  justify-content: space-between;
+}
+
+#MenuV {
+  height: 360px;
+  width: 100px;
+  margin-left: 50px;
+  background-color: hotpink;
+
 }
